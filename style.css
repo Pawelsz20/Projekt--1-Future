@@ -216,16 +216,4 @@ footer .container {
   justify-content: space-between;
 }
 
-.img {
-  background-image: url(img/background/first-img.jpg);
-  background-repeat: no-repeat;
-  border-radius: 100px;
-}
 
-.profile--mod:nth-of-type(even) {
-  background-image: url(img/background/second-img.jpg);
-  background-repeat: no-repeat;
-  border-radius: 100px;
-  text-align: right;
-  background-position: right;
-}
